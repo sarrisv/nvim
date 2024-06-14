@@ -1,0 +1,3 @@
+return {
+  "sarrisv/readermode.nvim",
+}
